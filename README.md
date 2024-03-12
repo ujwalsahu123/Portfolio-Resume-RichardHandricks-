@@ -1,2 +1,2 @@
-# html-portfolio
+# portfolio Resume (richard handricks)
 learning , etc . @angela
